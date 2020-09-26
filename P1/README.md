@@ -1,4 +1,4 @@
-###### Every Algorithm is written in both .py and .cpp
+###### Every Algorithm is written in .py or .cpp, or even both.
 
 # Description of The Problem
 
