@@ -2,7 +2,7 @@ class Solution {
 public:
     int threeSumClosest(vector<int>& nums, int target) {
         sort(nums.begin(), nums.end()); //先排序
-        int n = nums.size()；
+        int n = nums.size();
         int best = 1e7;     //初始化
 
         // 根据差值的绝对值来更新答案
